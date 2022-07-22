@@ -1,0 +1,14 @@
+
+.container-itemCount{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+input{
+    color:black;
+    text-align: center;
+}
+button{
+    color: black;
+}
